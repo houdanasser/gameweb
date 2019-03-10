@@ -34,7 +34,7 @@
 			<!--<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Twitch!</button>-->
          </div>
          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-            <img class="img-responsive" src="images/Thomas.png" alt="Thomas">
+            <img class="img-responsive" src="images/Thomas.png" alt="Houda">
          </div>
       </div>
    </div>
@@ -61,7 +61,7 @@
             </ul>
             <p class="copyright">Copyright &copy; GameWeb 2018. All Rights Reserved</p>
 		<p class="copyright">Webpage developed by:</p>
-		<div class="g-ytsubscribe" data-channelid="UC8hvrwd0StsX7TSdZ3O2bmg" data-layout="full" data-count="default"></div>
+		<div class="g-ytsubscribe" data-channelid="UCCTn-eTrpXwrdqMmXSMWtZg" data-layout="full" data-count="default"></div>
          </div>
       </div>
    </footer>
