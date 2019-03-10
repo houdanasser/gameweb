@@ -30,7 +30,7 @@
             <hr class="HeadingOfSection-space">
             <div class="clearfix"></div>
             <h2 class="HeadingOfSection">Who am I? Houda Nasser</h2>
-            <p class="writing">The coolest game website ever! DANG I SOUND REALLY FORMAL.</p>
+            <p class="writing">The coolest game website ever! I hope you enjoy it</p>
 			<!--<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Twitch!</button>-->
          </div>
          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -47,7 +47,7 @@
             <p class="writing"> Welcome to Gameweb My goal is to create a website where people can be able to play a game without having to download it!</p>
          </div>
          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-           <!-- <iframe width="100%" height="250" src="https://www.youtube.com/embed/eu5pFpfQJA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+           <iframe width="100%" height="250" src="https://ellisonleao.github.io/clumsy-bird/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
          </div>
       </div>
    </div>
