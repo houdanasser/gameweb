@@ -44,8 +44,7 @@
             <hr class="HeadingOfSection-space">
             <div class="clearfix"></div>
             <h2 class="HeadingOfSection">What is yo Purr-Pose??</h2>
-            <p class="writing">WHAT UP PLAYAS? Welcome to Gameweb My goal is to create a website where people can be able to play a game without having to download it!</p>
-		<div class="g-ytsubscribe" data-channelid="UC2FscK2dqX3s_m4ESWCnppA" data-layout="full" data-count="default"></div>
+            <p class="writing"> Welcome to Gameweb My goal is to create a website where people can be able to play a game without having to download it!</p>
          </div>
          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
            <!-- <iframe width="100%" height="250" src="https://www.youtube.com/embed/eu5pFpfQJA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
