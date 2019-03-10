@@ -1,5 +1,4 @@
-# AwesomeTheSauce
-Fan webpage for AwesomeTheSauce wiztuber
+# GameWeb
 
 First, to start uploading files in repository from computer directly, have to create a readme file or something so github can take you to the page insider repository where you can upload the files (pull-request). the file can be deleted afterwards...but dont know why github does that mandatory step ...
 
