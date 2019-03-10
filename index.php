@@ -35,7 +35,7 @@
          </div>
          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
             <!--<img class="img-responsive" src="images/Thomas.png" alt="Houda">-->
-		<embed width="650" height="700" src="https://mk.mgechev.com/"></embed><br/>
+		<embed width="725" height="800" src="https://mk.mgechev.com/"></embed><br/>
          </div>
       </div>
    </div>
