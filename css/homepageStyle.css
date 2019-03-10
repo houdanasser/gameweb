@@ -1,0 +1,331 @@
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+body, h1, h2, h3, h4, h5 {
+    font-family: Arial,sans-serif;
+    font-weight: 700;
+}
+
+.writing {
+    font-size: 18.5px;
+    font-weight: 400;
+	font-family: Times New Roman;
+}
+
+.space {
+    margin-bottom:15px;
+}
+
+#logo {
+  /* width:80px; */
+  height:80px;
+}
+
+.RetroIntroductionHeaderStyle {
+    text-align: center;
+    background: url(../images/wizard101.png) no-repeat center center;
+    background-size: cover;
+}
+
+.RetroIntroductionMessageStyle {
+    position: relative;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.RetroIntroductionMessageStyle > h1 {
+    margin: 0;
+    font-size: 5em;
+}
+
+.RetroIntroductionDivider {
+    width: 400px;
+    border-top: 1px solid WhiteSmoke ;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+@media(max-width:767px) {
+    .RetroIntroductionMessageStyle {
+        padding-bottom: 15%;
+    }
+
+    .RetroIntroductionMessageStyle > h1 {
+        font-size: 3em;
+    }
+
+    .RetroIntroductionDivider {
+        width: 100%;
+    }
+}
+
+.ContentSection1 {
+    padding: 50px 0;
+    background-color: AliceBlue ;
+}
+
+.ContentSection2 {
+    padding: 50px 0;
+    border-top: 1px solid Silver;
+    border-bottom: 1px solid Silver;
+	background-color: WhiteSmoke;
+}
+
+.HeadingOfSection {
+    margin-bottom: 30px;
+}
+
+.HeadingOfSection-space {
+    float: left;
+    width: 200px;
+    border-top: 3px solid Silver;
+}
+
+.logoImage {
+    /* position: absolute; */
+    /* left: 47%; */
+    /* top: 3.5%; */
+    /* z-index: 1; */
+    vertical-align: bottom;
+}
+
+.left{
+	text-align: left;
+}
+
+.right{
+	/* position: absolute; */
+	left: 65%;
+	top: 5.75%;
+}
+
+.right2{
+	/* position: absolute; */
+	left: 65%;
+	top: 10%;
+}
+
+.noBullets{
+	list-style-type: none;
+}
+
+header {
+    /* padding: 0 0 20px 0; */
+    background: url(../images/FormBackgroundImage.png) no-repeat 100% 0%;
+    text-align: center;
+}
+
+footer {
+    padding: 25px 0;
+    /*background-color: #99CCCC;*/
+	background: url(../images/FormBackgroundImage.png) 100% 0%;
+	text-align: center;
+	
+}
+
+p.copyright {
+    margin: 15px 0 0;
+	text-align: center;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #541e54;
+  -moz-box-shadow: 0px 1px 3px #541e54;
+  box-shadow: 0px 1px 3px #541e54;
+  font-family: Georgia;
+  color: #e8dfcc;
+  font-size: 20px;
+  padding: 6px 14px 6px 14px;
+  border: solid #505e94 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #998cb3;
+  background-image: -webkit-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -moz-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -ms-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -o-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: linear-gradient(to bottom, #998cb3, #62a5d1);
+  text-decoration: none;
+  color: #e8dfcc;
+}
+
+.btn1 {
+  background: #3498db;
+  background-image: 
+  
+  
+  
+  
+  
+  
+  
+  
+  -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: 
+  
+  
+  
+  
+  
+  
+  
+  
+  -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: 
+  
+  
+  
+  
+  
+  
+  
+  
+  -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: 
+  
+  
+  
+  
+  
+  
+  
+  
+  -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #541e54;
+  -moz-box-shadow: 0px 1px 3px #541e54;
+  box-shadow: 0px 1px 3px #541e54;
+  font-family: Georgia;
+  color: #e8dfcc;
+  font-size: 20px;
+  padding: 6px 14px 6px 14px;
+  border: solid #505e94 1px;
+  text-decoration: none;
+  /* position:absolute; */
+  /* top:6.5%; */
+  /* left:77.5%; */
+  margin: 5px 0;
+}
+
+.btn1:hover {
+  background: #998cb3;
+  background-image: -webkit-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -moz-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -ms-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -o-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: linear-gradient(to bottom, #998cb3, #62a5d1);
+  text-decoration: none;
+  color: #e8dfcc;
+}
+
+.btn2 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #541e54;
+  -moz-box-shadow: 0px 1px 3px #541e54;
+  box-shadow: 0px 1px 3px #541e54;
+  font-family: Georgia;
+  color: #e8dfcc;
+  font-size: 20px;
+  padding: 6px 14px 6px 14px;
+  border: solid #505e94 1px;
+  text-decoration: none;
+  position:absolute;
+  top:6.5%;
+  left:85.5%;
+}
+
+.btn2:hover {
+  background: #998cb3;
+  background-image: -webkit-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -moz-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -ms-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: -o-linear-gradient(top, #998cb3, #62a5d1);
+  background-image: linear-gradient(to bottom, #998cb3, #62a5d1);
+  text-decoration: none;
+  color: #e8dfcc;
+}
+
+
+/****************
+Header Divs
+****************/
+
+#leftheader {
+ display:inline-block;
+ width: 30%;
+}
+
+#midheader {
+display:inline-block;
+width: 20%%;
+    text-align: center;
+}
+
+#logo {
+  height: 80px;
+}
+
+
+#rightheader {
+display:inline-block;
+width: 30%;height: 100%;text-align: right;min-width: 411px;}
+
+#rightheader div {
+  /* width: 40%; */
+  margin: 10px;
+  display: inline-block;
+  padding: 0 5px 5px 5px;
+  /* vertical-align: bottom; */
+  margin: 0 5px 5px 5px;
+  /* min-width: 200px; */
+}
+
+#topbar {
+	padding: 0;
+	margin: 0;
+	width:100%;
+}
+#topbar {
+  background-image: url(../images/FormBackgroundImage.png);
+}
+#topbar div {
+  background-color: rgba(255, 255, 255, 0.0);
+  display: inline-block
+
+;
+  /* height: 100%; */
+  /* margin: 0; */
+}
+#topbar {
+  padding: 0 10px;
+  margin: 0;
+  width: 100%;
+  min-width: 1220px;
+}
+
