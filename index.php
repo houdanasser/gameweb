@@ -35,7 +35,7 @@
          </div>
          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
             <!--<img class="img-responsive" src="images/Thomas.png" alt="Houda">-->
-		<embed width="550" height="400" base="https://external.kongregate-games.com/gamez/0000/6057/live/" src="https://external.kongregate-games.com/gamez/0000/6057/live/embeddable_6057.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="https://www.kongregate.com/">Kongregate</a>
+		<embed width="550" height="400" base="https://external.kongregate-games.com/gamez/0000/6057/live/" src="https://external.kongregate-games.com/gamez/0000/6057/live/embeddable_6057.swf" type="application/x-shockwave-flash"></embed><br/>
          </div>
       </div>
    </div>
@@ -48,8 +48,9 @@
             <p class="writing"> Welcome to Gameweb My goal is to create a website where people can be able to play a game without having to download it!</p>
          </div>
          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-           <iframe width="100%" height="250" src="https://ellisonleao.github.io/clumsy-bird/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-         </div>
+           <!--<iframe width="100%" height="250" src="https://ellisonleao.github.io/clumsy-bird/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+           <embed width="550" height="400" src="https://ellisonleao.github.io/clumsy-bird/"></embed><br/> 
+	  </div>
       </div>
    </div>
    <footer>
