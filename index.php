@@ -49,7 +49,7 @@
          </div>
          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
            <!--<iframe width="100%" height="250" src="https://ellisonleao.github.io/clumsy-bird/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
-           <embed width="550" height="400" src="https://ellisonleao.github.io/clumsy-bird/"></embed><br/> 
+           <embed width="500" height="350" src="https://ellisonleao.github.io/clumsy-bird/"></embed><br/> 
 	  </div>
       </div>
    </div>
