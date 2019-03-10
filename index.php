@@ -34,7 +34,8 @@
 			<!--<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Twitch!</button>-->
          </div>
          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-            <img class="img-responsive" src="images/Thomas.png" alt="Houda">
+            <!--<img class="img-responsive" src="images/Thomas.png" alt="Houda">-->
+		<embed width="550" height="400" base="https://external.kongregate-games.com/gamez/0000/6057/live/" src="https://external.kongregate-games.com/gamez/0000/6057/live/embeddable_6057.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="https://www.kongregate.com/">Kongregate</a>
          </div>
       </div>
    </div>
