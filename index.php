@@ -35,7 +35,7 @@
          </div>
          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
             <!--<img class="img-responsive" src="images/Thomas.png" alt="Houda">-->
-		<embed width="725" height="800" src="https://mk.mgechev.com/"></embed><br/>
+		<embed width="500" height="350" src="https://codepen.io/timrijkse/full/XjLGKv/"></embed><br/>
          </div>
       </div>
    </div>
@@ -51,6 +51,13 @@
            <!--<iframe width="100%" height="250" src="https://ellisonleao.github.io/clumsy-bird/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
            <embed width="500" height="350" src="https://ellisonleao.github.io/clumsy-bird/"></embed><br/> 
 	  </div>
+      </div>
+   </div>
+   <div class="ContentSection2">
+      <div class="container">
+	<div class="col-lg-5 col-lg-offset-1 col-sm-push-3  col-sm-4"><!-- center alignment by bootstrap; col-sm-push-1 seems to be the main factor for alignment here...-->
+	<embed width="725" height="825" src="https://mk.mgechev.com/"></embed><br/>
+	</div>
       </div>
    </div>
    <footer>
