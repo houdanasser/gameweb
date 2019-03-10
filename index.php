@@ -35,7 +35,7 @@
          </div>
          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
             <!--<img class="img-responsive" src="images/Thomas.png" alt="Houda">-->
-		<embed width="550" height="400" src="http://pacman.platzh1rsch.ch/"></embed><br/>
+		<embed width="550" height="400" src="https://mk.mgechev.com/"></embed><br/>
          </div>
       </div>
    </div>
